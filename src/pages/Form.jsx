@@ -166,7 +166,7 @@ const Form = () => {
               </label>
               <textarea
                 ref={reason}
-                placeholder="Tell us about your interest in quantum computing..."
+                placeholder="Tell us about your interests..."
                 className={`${inputClasses} resize-none`}
                 rows={4}
                 required
