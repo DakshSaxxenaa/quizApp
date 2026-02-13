@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import { LOGO_URL } from "../utils/constants.js";
+import LOGO_URL from "../assets/QCG_Banner_auto_x2-removebg-preview.png"
 import { useEffect } from "react";
 
 const Header = () => {
