@@ -1,6 +1,7 @@
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import { BACKGROUND_URL } from "./utils/constants.js";
+// import { BACKGROUND_URL } from "./utils/constants.js";
+import BACKGROUND_URL from "./assets/landing_cover_latest.jpg"
 import { Outlet } from "react-router-dom";;
 function App() {
   return (
